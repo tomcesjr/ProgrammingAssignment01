@@ -76,7 +76,6 @@ public class TicketBoard {
             arr[idx] = temp[idx];
         }
     }
-
     // ---------------------------------------------------------
     // TODO #4 (Algorithm Completion): Binary Search by ID
     // Precondition: tickets are sorted by ID ASCENDING.

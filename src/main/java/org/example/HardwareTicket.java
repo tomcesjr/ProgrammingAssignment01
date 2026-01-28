@@ -1,4 +1,5 @@
 package org.example;
+
 public class HardwareTicket extends Ticket {
     private final String deviceType;     // e.g., "Laptop", "Desktop", "Printer"
     private final boolean labCritical;    // true if affects a lab/classroom

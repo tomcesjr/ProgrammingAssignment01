@@ -1,4 +1,5 @@
 package org.example;
+
 public abstract class Ticket {
     private final int id;
     private final String requester;

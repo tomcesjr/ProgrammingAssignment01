@@ -3,8 +3,6 @@ public class Main {
     public static void main(String[] args) {
         TicketBoard board = new TicketBoard(10);
 
-        // synced with IntelliJ
-
         // Sample data (mix hardware/software)
         board.add(new HardwareTicket(104, "Moaath", 4, 2, "Laptop", true, 18));
         board.add(new SoftwareTicket(101, "Jacob", 5, 0, "VPN", true, true));

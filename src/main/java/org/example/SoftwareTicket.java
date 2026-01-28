@@ -27,6 +27,7 @@ public class SoftwareTicket extends Ticket {
     //   + (system equalsIgnoreCase "VPN" ? 8 : 0)
     // Return the final score.
     // -----------------------------------------
+
     @Override
     public int urgencyScore() {
         // TODO #3
